@@ -1,0 +1,14 @@
+footer{
+    position: fixed;
+    bottom: 0%;
+    width: 100%;
+    background-color: #343A40;
+    text-align: center;
+    color: white;
+    height: 35px;
+    vertical-align: center;
+}
+img{
+    width: 50%;
+    height: 50%;
+}
